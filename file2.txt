@@ -1,2 +1,2 @@
-
+welcome to file2.txt
  hello this is file2
